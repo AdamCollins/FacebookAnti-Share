@@ -1,2 +1,3 @@
-# FacebookAnti-Share
-A Google Chrome extension that removes shared content from your Facebook feed so you can see more content that you want to see.
+# Facebook Anti-Share Chrome Extension
+This extension removes shared content from
+##sads
