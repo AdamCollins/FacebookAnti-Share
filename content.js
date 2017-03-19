@@ -1,5 +1,5 @@
 console.log("Facebook anti-share loading...")
-removeSpam();
+removeShares();
 window.setInterval(removeShares,1000);
 
 function removeShares(){
