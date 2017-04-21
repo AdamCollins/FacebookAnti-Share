@@ -1,11 +1,16 @@
 {
 	"name":"Facebook Anti-Share",
-	"version":"1.1",
+	"version":"1.2",
 	"manifest_version":2,
 	"description":"Hides all shares on Facebook to minimize spam",
+	"options_page":"options.html", 
 	"content_scripts":[{
 		"js":["jquery.min.js","content.js"],
 		"matches":["https://www.facebook.com/"]
-	}]
+	}],
+	"permissions": [
+	          "storage"
+	        ]
+	
 }
 	
