@@ -33,7 +33,7 @@ function restore_options() {
     document.getElementById('isEnabled').checked = items.isEnabled;
     document.getElementById('hideShares').checked = items.hideShares;
     document.getElementById('hideSponsoredPosts').checked = items.hideSponsored;
-     document.getElementById('hideCommentReplies').checked = items.hideCommentReplies;
+    document.getElementById('hideCommentReplies').checked = items.hideCommentReplies;
   });
 }
 document.addEventListener('DOMContentLoaded', restore_options);
