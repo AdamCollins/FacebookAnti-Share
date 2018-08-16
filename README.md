@@ -3,6 +3,12 @@ This extension removes shared content from your facebook feed.
 Removing shared content allows your feed's conent to be more personal.
 
 <h2>Installation</h2>
+<a href="https://chrome.google.com/webstore/detail/anti-share-for-facebook/nbfldngljbifopgggaccdlmjikpkheli">Chrome Store Install</a>
+
+Firefox Coming Soon
+
+
+<h2>Developer Installation</h2>
 To install follow these simple steps:
 <ol>
   <li>Download FacebookAnti-Share-master.zip</li>
